@@ -1,12 +1,10 @@
-﻿namespace Tutorial
-{
-    internal class Program
+﻿
+    namespace Tutorial
     {
-        static void Main(string[] args)
+        internal class Program
         {
-            Console.WriteLine("Hello, New World!");
-            Console.WriteLine("Welcome to the session");
-            Console.WriteLine("Let's get started");
+            static void Main(string[] args)
+            {                
         }
     }
-}
+    }
